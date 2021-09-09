@@ -1,9 +1,4 @@
 
-#### Switch to english: <kbd>[<img title="English" alt="English" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png" width="22">](translation/english/README.en.md)</kbd>
-
-#### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png" width="22">](translation/espanol/README.es.md)</kbd>
-
-
 <h1> Olá, eu sou a Barbriela, muito obrigada pela sua atenção &#128591; </h1>
 
 	
