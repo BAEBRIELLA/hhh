@@ -13,7 +13,7 @@
 	
 &#128150; 😄 Pronomes: Ela/dela, Voce pode me chamar de Barbriela que é a fusao de Barbosa Gabriela, ou de baby que é meu apelido
 	
-&#128150; ⚡ Tambem sou ilustradora e UX&UI, e pretendo levar essa bagagem comigo
+&#128150; ⚡ Tambem sou ilustradora e UX&I, e pretendo levar essa bagagem comigo
 
 <div>
   <a href="https://beacons.ai/barbriela">
