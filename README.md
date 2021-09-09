@@ -1,24 +1,28 @@
- </h1>
 
-<h1> Olá, eu sou a Barbriela, muito obrigada pela sua atenção 👋 </h1>
+#### Switch to english: <kbd>[<img title="English" alt="English" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png" width="22">](translation/english/README.en.md)</kbd>
+
+#### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png" width="22">](translation/espanol/README.es.md)</kbd>
+
+
+<h1> Olá, eu sou a Barbriela, muito obrigada pela sua atenção &#128591; </h1>
 
 	
-&#128150; 🔭 Estou migrando da moda pra programação. Ja vivi esse sonho, construi meu ateliê, agora ensinei o ofício pra minha mãe, dei o ateliê pra ela e vim conquistar outro sonho, ser uma dev Fullstack &#128187; &#10024;
+&#129419; Estou migrando da moda pra programação. Ja vivi esse sonho, construi meu ateliê, agora ensinei o ofício pra minha mãe, dei o ateliê pra ela e vim conquistar outro sonho, ser uma dev Fullstack &#128187; &#10024;
 	
-&#128150; 🌱 Atualmente estudando front-end e typescript.
+&#128218; Atualmente estudando front-end e typescript.
 	
-&#128150; 💬 Espero afiar mais minhas katanas antes de colocar elas como hashi, prender meus cabelos e ir a luta conquistar objetivos e resultados por alguma empresa, e pro meu checklist. Mas se sua procura for ser o sensei de uma padawan que deseja muito aprender tambem trabalhando, estou aqui!
+&#9876; Espero afiar mais minhas katanas antes de colocar elas como hashi, prender meus cabelos e ir a luta conquistar objetivos e resultados por alguma empresa, e pro meu checklist. Mas se sua procura for ser o sensei de uma padawan que deseja muito aprender tambem trabalhando, estou aqui!
 	
-&#128150; 📫 Me encontre pelo meu email gabrielakamikazi@gmail.com ou meu insta @barbrieland
+&#128640; Ja tracei minhas metas e estou indo ao infinito e alem pra atingir todas, mas voce pode me contatar enquanto aida estou aqui na terra pelo email gabrielakamikazi@gmail.com ou meu insta @barbrieland. Elon Musk, conto com voce pra espalhar 5g por todo o universo quando eu estiver na velocidade da luz 
 	
-&#128150; 😄 Pronomes: Ela/dela, Voce pode me chamar de Barbriela que é a fusao de Barbosa Gabriela, ou de baby que é meu apelido
+&#128139; Pronomes: Ela/dela, Voce pode me chamar de Barbriela que é a fusao de Barbosa Gabriela, ou de baby que é meu apelido
 	
-&#128150; ⚡ Tambem sou ilustradora e UX&I, e pretendo levar essa bagagem comigo
+&#128133; Tambem sou ilustradora e UX&I, e pretendo levar essa bagagem comigo
 
 <div>
   <a href="https://beacons.ai/barbriela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbriela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbriela&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbriela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbriela&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -42,5 +46,5 @@
   <a href = "gabrielakamikazi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/barbriela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<img align="center" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigadao!" height="250" width="580" src="https://media2.giphy.com/media/T3e7uu8XH8Cm2MdhtS/giphy.gif?cid=790b76118818aab8a60d431d5be0d4613698e6e35a964518&rid=giphy.gif&ct=g">
+<img align="center" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigada!" width="100%" height="auto" src="https://media2.giphy.com/media/T3e7uu8XH8Cm2MdhtS/giphy.gif?cid=790b76118818aab8a60d431d5be0d4613698e6e35a964518&rid=giphy.gif&ct=g">
 </div>
