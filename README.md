@@ -1,11 +1,19 @@
-### Olá, eu sou a Barbriela, muito obrigada pela sua atenção 👋
+ </h1>
 
-- 🔭 Estou migrando da moda pra programação ...
-- 🌱 Atualmente estudando front-end e typescript ...
-- 💬 Espero afiar mais minhas katanas antes de colocar elas como hashi, prender meus cabelos e ir conquistar por alguma empresa. Mas se sua procura for ser o sensei de uma padawan que deseja muito aprender tambem trabalhando, estou aqui! ...
-- 📫 Me encontre pelo meu email gabrielakamikazi@gmail.com ou meu insta @barbrieland ...
-- 😄 Pronomes: Ela/dela, Voce pode me chamar de Barbriela que é a fusao de Barbosa Gabriela, ou de baby que é meu apelido...
-- ⚡ Tambem sou ilustradora e UX&UI, e pretendo levar essa bagagem comigo ...
+<h1> Olá, eu sou a Barbriela, muito obrigada pela sua atenção 👋 </h1>
+
+	
+&#128150; 🔭 Estou migrando da moda pra programação. Ja vivi esse sonho, construi meu ateliê, agora ensinei o ofício pra minha mãe, dei o ateliê pra ela e vim conquistar outro sonho, ser uma dev Fullstack &#128187; &#10024;
+	
+&#128150; 🌱 Atualmente estudando front-end e typescript.
+	
+&#128150; 💬 Espero afiar mais minhas katanas antes de colocar elas como hashi, prender meus cabelos e ir a luta conquistar objetivos e resultados por alguma empresa, e pro meu checklist. Mas se sua procura for ser o sensei de uma padawan que deseja muito aprender tambem trabalhando, estou aqui!
+	
+&#128150; 📫 Me encontre pelo meu email gabrielakamikazi@gmail.com ou meu insta @barbrieland
+	
+&#128150; 😄 Pronomes: Ela/dela, Voce pode me chamar de Barbriela que é a fusao de Barbosa Gabriela, ou de baby que é meu apelido
+	
+&#128150; ⚡ Tambem sou ilustradora e UX&UI, e pretendo levar essa bagagem comigo
 
 <div>
   <a href="https://beacons.ai/barbriela">
@@ -21,7 +29,7 @@
   <img align="center" alt="Baby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Baby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Baby-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Baby-gif" height="250" width="250" src="https://media2.giphy.com/media/ymB24UkHw0EGaOUKSo/giphy.gif?cid=790b76119998368469421bd18b6ad9f6898c1d4e501aa8b5&rid=giphy.gif&ct=g">
+  <img align="right" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigadao!" height="250" width="250" src="https://media2.giphy.com/media/ymB24UkHw0EGaOUKSo/giphy.gif?cid=790b76119998368469421bd18b6ad9f6898c1d4e501aa8b5&rid=giphy.gif&ct=g">
 </div>
  
   
@@ -34,4 +42,5 @@
   <a href = "gabrielakamikazi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/barbriela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+<img align="center" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigadao!" height="250" width="580" src="https://media2.giphy.com/media/T3e7uu8XH8Cm2MdhtS/giphy.gif?cid=790b76118818aab8a60d431d5be0d4613698e6e35a964518&rid=giphy.gif&ct=g">
+</div>
