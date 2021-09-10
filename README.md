@@ -13,7 +13,7 @@
 
 &#128509; My english level is intermediary, my twin works as a producer, so i help him so many times. Oops, correcting, I had the opportunity to keep up with him and support, learn english and some skills as a social media and design.
 
-&#128088; My next skill in my wishlist is learn japanese. I just started, but learn front-end and ilustration is a hobby and a passion for me, so i will start study japanese in my weekends, i literally am the type of girl who loves more learn than partys or distractions.
+&#128088; My next skill in my wishlist is to learn japanese. I have just started, but learn front-end and ilustration it's a hobby and a passion for me, so i will study japanese over the weekends, i literally am the type of girl who loves more learn than partys or distractions.
 	
 &#128139; Pronomes: Ela/dela, Voce pode me chamar de Barbriela que é a fusao de Barbosa Gabriela, ou de baby que é meu apelido
 	
