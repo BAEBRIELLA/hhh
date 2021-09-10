@@ -1,3 +1,4 @@
+<img align="center" alt="Banner escrito Barbriela Dev Ninja, gosto de me chamar de ninja porque me sinto sempre em treinamento pra conquistar, e barbriela e a fusao do meu nome, barbosa gabriela" width="300" height="130" src="https://media2.giphy.com/media/VFOimGaqd4kDzb6xfq/giphy.gif?cid=790b761100a7d078871d01d771ce4e50311a0fdea25d2ff5&rid=giphy.gif&ct=s">
 
 <h1> Olá, eu sou a Barbriela, muito obrigada pela sua atenção &#128591; </h1>
 
@@ -9,6 +10,10 @@
 &#9876; Espero afiar mais minhas katanas antes de colocar elas como hashi, prender meus cabelos e ir a luta conquistar objetivos e resultados por alguma empresa, e pro meu checklist. Mas se sua procura for ser o sensei de uma padawan que deseja muito aprender tambem trabalhando, estou aqui!
 	
 &#128640; Ja tracei minhas metas e estou indo ao infinito e alem pra atingir todas, mas voce pode me contatar enquanto aida estou aqui na terra pelo email gabrielakamikazi@gmail.com ou meu insta @barbrieland. Elon Musk, conto com voce pra espalhar 5g por todo o universo quando eu estiver na velocidade da luz 
+
+&#128509; My english level is intermediary, my twin works as a producer, so i help him so many times. Oops, correcting, I had the opportunity to keep up with him and support, learn english and some skills as a social media and design.
+
+&#128088; My next skill in my wishlist is learn japanese. I just started, but learn front-end and ilustration is a hobby and a passion for me, so i will start study japanese in my weekends, i literally am the type of girl who loves more learn than partys or distractions.
 	
 &#128139; Pronomes: Ela/dela, Voce pode me chamar de Barbriela que é a fusao de Barbosa Gabriela, ou de baby que é meu apelido
 	
