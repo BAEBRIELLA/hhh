@@ -1,9 +1,9 @@
-<img align="center" alt="Banner escrito Barbriela Dev Ninja, gosto de me chamar de ninja porque me sinto sempre em treinamento pra conquistar, e barbriela e a fusao do meu nome, barbosa gabriela" width="500" height="auto" src="https://i.giphy.com/media/jgy4klna6F75F0cVMR/giphy.webp">
+<img align="center" alt="Banner escrito Barbriela Dev Ninja, gosto de me chamar de ninja porque me sinto sempre em treinamento pra conquistar, e barbriela e a fusao do meu nome, barbosa gabriela" width="500" height="auto" src="https://i.giphy.com/media/p7rD5Z2lUESohcvLEL/giphy.webp">
 
 <h1> Olá, eu sou a Barbriela, muito obrigada pela sua atenção &#128591; </h1>
 
 	
-&#129419; Estou migrando da moda pra programação, comecei meus estudos em julho/2021. Inicialmente como um hubby, pra salvar minha mente da pandemia, mas descobri uma paixão. Sempre amei construir, tornar algo real, isso me levou a moda, e reencontrei isso codando, realizar um projeto me faz me sentir viva. Moda foi um lindo capitulo da minha vida, ja vivi esse sonho, construi meu ateliê, agora ensinei o ofício pra minha mãe, dei o ateliê pra ela e vim conquistar outro sonho, ser uma dev Fullstack &#128187; &#10024;
+&#129419; Estou migrando da moda pra programação, comecei meus estudos em julho/2021. Inicialmente como um hobby, pra salvar minha saude mental na pandemia, mas descobri uma paixão. Sempre amei construir, tornar algo real, isso me levou a moda, e reencontrei isso codando, realizar um projeto me faz me sentir viva. Moda foi um lindo capitulo da minha vida, ja vivi esse sonho, construi meu ateliê, agora ensinei o ofício pra minha mãe, dei o ateliê pra ela e vim conquistar outro sonho, ser uma dev Fullstack &#128187; &#10024;
 	
 &#128218; Atualmente estudando front-end e typescript.
 	
