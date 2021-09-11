@@ -1,4 +1,4 @@
-<img align="center" alt="Banner escrito Barbriela Dev Ninja, gosto de me chamar de ninja porque me sinto sempre em treinamento pra conquistar, e barbriela e a fusao do meu nome, barbosa gabriela" width="500" height="300" src="https://i.giphy.com/media/jgy4klna6F75F0cVMR/giphy.webp">
+<img align="center" alt="Banner escrito Barbriela Dev Ninja, gosto de me chamar de ninja porque me sinto sempre em treinamento pra conquistar, e barbriela e a fusao do meu nome, barbosa gabriela" width="500" height="auto" src="https://i.giphy.com/media/jgy4klna6F75F0cVMR/giphy.webp">
 
 <h1> Olá, eu sou a Barbriela, muito obrigada pela sua atenção &#128591; </h1>
 
