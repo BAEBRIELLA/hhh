@@ -1,4 +1,4 @@
-<img align="center" alt="Banner escrito Barbriela Dev Ninja, gosto de me chamar de ninja porque me sinto sempre em treinamento pra conquistar, e barbriela e a fusao do meu nome, barbosa gabriela" width="500" height="auto" src="https://i.giphy.com/media/p7rD5Z2lUESohcvLEL/giphy.webp">
+<img align="center" alt="Foto com a escrita Barbriela, que e o meu nome, Gabriela Barbosa criptografado, e um auto retrato ilustrado e animado por mim mesma, vestida de alice, que e como me sinto no mundo da programacao, sempre deslumbrada e curiosa." width="500" height="auto" src="https://i.giphy.com/media/p7rD5Z2lUESohcvLEL/giphy.webp">
 
 <h1> Olá, eu sou a Barbriela, muito obrigada pela sua atenção &#128591; </h1>
 
