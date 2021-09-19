@@ -4,26 +4,24 @@
 
 #### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png" width="22">](/README.es.md)</kbd>
 
-#### Voltar pro português: <kbd>[<img title="Português" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png" width="22">](/README.md)</kbd>
-
 <h1> hola me llaman Barbriela, halagada de conocerte &#128591; </h1>
 
 	
-&#129419; Estou migrando da moda pra programação, comecei meus estudos em julho/2021. Inicialmente como um hobby, pra salvar minha saude mental na pandemia, mas descobri uma paixão. Sempre amei construir, tornar algo real, isso me levou a moda, e reencontrei isso codando, realizar um projeto me faz me sentir viva. Moda foi um lindo capitulo da minha vida, ja vivi esse sonho, construi meu ateliê, agora ensinei o ofício pra minha mãe, dei o ateliê pra ela e vim conquistar outro sonho, ser uma dev Fullstack &#128187; &#10024;
+&#129419; Estoy migrando de la moda a la programación, comencé mis estudios en julio / 2021. Inicialmente como un hobby, para salvar mi salud mental en la pandemia, pero descubrí una pasión. Siempre me ha gustado construir, hacer algo real, esto me llevó a la moda, y lo encontré de nuevo codificando, llevar a cabo un proyecto me hace sentir viva. La moda fue un capítulo hermoso de mi vida, ya viví este sueño, construí mi estudio, ahora le enseñé el oficio a mi madre, le di el estudio y vine a conquistar otro sueño, ser un dev Fullstack &#128187; &#10024;
 	
-&#128218; Atualmente estudando front-end e typescript.
+&#128218; actualmente estudiando <b>Java</b>
 	
-&#9876; Espero afiar mais minhas katanas antes de colocar elas como hashi, prender meus cabelos e ir a luta conquistar objetivos e resultados por alguma empresa, e pro meu checklist. Mas se sua procura for ser o sensei de uma padawan que deseja muito aprender tambem trabalhando, estou aqui!
+&#9876; Quiero amarrar más mis katanas antes de ponerlas como palillos, ponerme el pelo hacia atrás y salir a luchar por conseguir metas y resultados para alguna empresa, y para mi checklist. Pero si tu búsqueda es ser el sensei de un padawan que quiere aprender mucho trabajando, ¡aquí estoy!
 	
-&#128640; Ja tracei minhas metas e estou indo ao infinito e alem pra atingir todas, mas voce pode me contatar enquanto aida estou aqui na terra pelo email gabrielakamikazi@gmail.com ou meu insta @barbrieland. Elon Musk, conto com voce pra espalhar 5g por todo o universo quando eu estiver na velocidade da luz 
+&#128640; Me he fijado mis metas y voy al infinito y más allá para lograrlas todas, pero puedes contactarme mientras estoy aquí en la tierra por correo electrónico gabrielakamikazi@gmail.com o mi urgencia @barbrieland. Elon Musk, cuento contigo para esparcir 5g por el universo cuando esté a la velocidad de la luz 
 
 &#128509; My english level is intermediary, my twin works as a producer, so i help him so many times. Oops, correcting, I had the opportunity to keep up with him and support, learn english and some skills as a social media and design.
 
-&#128088; My next skill in my wishlist is to learn japanese. I have just started, but learn front-end and ilustration it's a hobby and a passion for me, so i will study japanese over the weekends, i literally am the type of girl who loves more learn than partys or distractions.
+&#128088; My next skill in my wishlist is to learn japanese. I have just started, but learn code and ilustration it's a hobby and a passion for me, so i will study japanese over the weekends, i literally am the type of girl who loves more learn than partys or distractions.
 	
-&#128139; Pronomes: Ela/dela, Voce pode me chamar de Barbriela que é a fusao de Barbosa Gabriela, ou de baby que é meu apelido
+&#128139; me puedes llamar Barbriela que es la fusión de Barbosa Gabriela, o baby que es mi nickname
 	
-&#128133; Tambem sou ilustradora e UX&I, e pretendo levar essa bagagem comigo
+&#128133; También soy ilustrador y UX&I, y tengo la intención de llevarme este equipaje.
 
 <div>
   <a href="https://beacons.ai/barbriela">
