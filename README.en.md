@@ -2,28 +2,28 @@
 
 #### Switch to english: <kbd>[<img title="English" alt="English" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png" width="22">](/README.en.md)</kbd>
 
-#### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png" width="22">](translation/espanol/README.es.md)</kbd>
+#### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png" width="22">](/README.es.md)</kbd>
 
 #### Voltar pro português: <kbd>[<img title="Português" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png" width="22">](/README.md)</kbd>
 
 <h1> Hi, call me Barbriela, nice to meet you &#128591; </h1>
 
 	
-&#129419; Estou migrando da moda pra programação, comecei meus estudos em julho/2021. Inicialmente como um hobby, pra salvar minha saude mental na pandemia, mas descobri uma paixão. Sempre amei construir, tornar algo real, isso me levou a moda, e reencontrei isso codando, realizar um projeto me faz me sentir viva. Moda foi um lindo capitulo da minha vida, ja vivi esse sonho, construi meu ateliê, agora ensinei o ofício pra minha mãe, dei o ateliê pra ela e vim conquistar outro sonho, ser uma dev Fullstack &#128187; &#10024;
+&#129419; I'm changing my career from fashion to programming. I started my studies on July 21st. initially the idea was have a hobby to save my mental health in pandemic, but i discovered a passion. i aways love build, create, see my ideas out of the role, let them alive, this was the reason why i went to fashion, and now the same reason why i came to code. Fashion was a beauty chapter of my story, i live this dream, now i taught the career to my mother and gave my fashion studio to her to work and live her dream, and i came to conquer my other dream, to be a DEV FULLSTACK. &#128187; &#10024;
 	
-&#128218; Atualmente estudando front-end e typescript.
+&#128218; Now learning <b>JAVA</b>.
 	
-&#9876; Espero afiar mais minhas katanas antes de colocar elas como hashi, prender meus cabelos e ir a luta conquistar objetivos e resultados por alguma empresa, e pro meu checklist. Mas se sua procura for ser o sensei de uma padawan que deseja muito aprender tambem trabalhando, estou aqui!
+&#9876; I hope hone my katanas more before putting them as chopsticks, putting my hair back and going out to fight to achieve goals and results for some company, and for my checklist. But if your search is to be the sensei of a padawan who wants to learn a lot by working, I'm here!
 	
-&#128640; Ja tracei minhas metas e estou indo ao infinito e alem pra atingir todas, mas voce pode me contatar enquanto aida estou aqui na terra pelo email gabrielakamikazi@gmail.com ou meu insta @barbrieland. Elon Musk, conto com voce pra espalhar 5g por todo o universo quando eu estiver na velocidade da luz 
+&#128640; I've set my goals and I'm going to infinity and beyond to achieve them all, but you can contact me while I'm here on earth by email gabrielakamikazi@gmail.com or my instagram @barbrieland. Elon Musk, I'm counting on you to spread 5g across the universe when I'm at the speed of light
 
 &#128509; My english level is intermediary, my twin works as a producer, so i help him so many times. Oops, correcting, I had the opportunity to keep up with him and support, learn english and some skills as a social media and design.
 
-&#128088; My next skill in my wishlist is to learn japanese. I have just started, but learn front-end and ilustration it's a hobby and a passion for me, so i will study japanese over the weekends, i literally am the type of girl who loves more learn than partys or distractions.
+&#128088; My next skill in my wishlist is to learn japanese. I have just started, but learn code and ilustration it's a hobby and a passion for me, so i will study japanese over the weekends, i literally am the type of girl who loves more learn than partys or distractions.
 	
-&#128139; Pronomes: Ela/dela, Voce pode me chamar de Barbriela que é a fusao de Barbosa Gabriela, ou de baby que é meu apelido
+&#128139; Pronouns: She/her, you can call me Barbriela which is the fusion of Barbosa Gabriela, or baby which is my nickname
 	
-&#128133; Tambem sou ilustradora e UX&I, e pretendo levar essa bagagem comigo
+&#128133; I am also an illustrator and UX&I, and I intend to take this baggage with me
 
 <div>
   <a href="https://beacons.ai/barbriela">
