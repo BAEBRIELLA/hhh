@@ -1,4 +1,4 @@
-<img align="center" alt="Foto com a escrita Barbriela, que e o meu nome, Gabriela Barbosa criptografado, e um auto retrato ilustrado e animado por mim mesma, vestida de alice, que e como me sinto no mundo da programacao, sempre deslumbrada e curiosa." width="500" height="auto" src="https://i.giphy.com/media/p7rD5Z2lUESohcvLEL/giphy.webp">
+<img align="center" alt="Foto com a escrita Barbriela, que e o meu nome, Gabriela Barbosa criptografado, e um auto retrato ilustrado e animado por mim mesma, vestida de alice, que e como me sinto no mundo da programacao, sempre deslumbrada e curiosa." width="600" height="auto" src="/baby.gif">
 
 #### Switch to english: <kbd>[<img title="English" alt="English" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png" width="22">](/README.en.md)</kbd>
 
