@@ -1,8 +1,10 @@
-<img align="center" alt="Foto com a escrita Barbriela, que e o meu nome, Gabriela Barbosa criptografado, e um auto retrato ilustrado e animado por mim mesma, vestida de alice, que e como me sinto no mundo da programacao, sempre deslumbrada e curiosa." width="500" height="auto" src="https://i.giphy.com/media/p7rD5Z2lUESohcvLEL/giphy.webp">
+<img align="center" alt="Foto com a escrita Baby, que e o meu nome, Gabriela Barbosa criptografado, e um auto retrato ilustrado e animado por mim mesma, vestida de alice, que e como me sinto no mundo da programacao, sempre deslumbrada e curiosa." width="600" height="auto" src="/baby.gif">
 
 #### Switch to english: <kbd>[<img title="English" alt="English" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png" width="22">](/README.en.md)</kbd>
 
 #### Cambiar al español: <kbd>[<img title="Español" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png" width="22">](/README.es.md)</kbd>
+
+#### Voltar pro português: <kbd>[<img title="Português" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png" width="22">](/README.md)</kbd>
 
 <h1> hola me llaman Barbriela, halagada de conocerte &#128591; </h1>
 
@@ -24,9 +26,9 @@
 &#128133; También soy ilustrador y UX&I, y tengo la intención de llevarme este equipaje.
 
 <div>
-  <a href="https://beacons.ai/barbriela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbriela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbriela&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://www.linkedin.com/in/babyisyourdream/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babyisyourdream&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyisyourdream&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -37,7 +39,7 @@
   <img align="center" alt="Baby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Baby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Baby-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigadao!" height="250" width="250" src="https://media2.giphy.com/media/ymB24UkHw0EGaOUKSo/giphy.gif?cid=790b76119998368469421bd18b6ad9f6898c1d4e501aa8b5&rid=giphy.gif&ct=g">
+  <img align="right" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigada!" height="250" width="250" src="/blink.gif">
 </div>
  
   
@@ -45,10 +47,10 @@
   
 <div>
   <a href="https://www.youtube.com/channel/UCu6JKN-KOdgQR5Y0BAue_2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/barbrieland" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href="https://soundcloud.com/barbriela" target="_blank"><img src="https://img.shields.io/badge/-soundcloud-%ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/babyisyourdream" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	 <a href="https://soundcloud.com/babyisyourdream" target="_blank"><img src="https://img.shields.io/badge/-soundcloud-%ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "gabrielakamikazi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/barbriela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/babyisyourdream" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<img align="center" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigada!" width="100%" height="auto" src="https://media2.giphy.com/media/T3e7uu8XH8Cm2MdhtS/giphy.gif?cid=790b76118818aab8a60d431d5be0d4613698e6e35a964518&rid=giphy.gif&ct=g">
+<img align="center" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigada!" width="100%" height="auto" src=/assinatura.gif>
 </div>
