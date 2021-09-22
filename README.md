@@ -50,5 +50,5 @@
   <a href = "gabrielakamikazi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/babyisyourdream" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<img align="center" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigada!" width="100%" height="auto" src="https://media2.giphy.com/media/T3e7uu8XH8Cm2MdhtS/giphy.gif?cid=790b76118818aab8a60d431d5be0d4613698e6e35a964518&rid=giphy.gif&ct=g">
+<img align="center" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigada!" width="100%" height="auto" src=/assinatura.gif>
 </div>
